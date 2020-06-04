@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "818044109171",
+    "firebase_url": "https://employee-tracking-2ef25.firebaseio.com",
+    "project_id": "employee-tracking-2ef25",
+    "storage_bucket": "employee-tracking-2ef25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818044109171:android:aa6972970367e45d950506",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.currentlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818044109171-l4d34qf42ruq0fcknf8qfotcn8gtf15l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4j6vxQgxWMPZ8p3DmOvKQ5GA1m5pl-P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818044109171-l4d34qf42ruq0fcknf8qfotcn8gtf15l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
